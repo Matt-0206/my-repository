@@ -1,0 +1,52 @@
+body{
+
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 0;
+}
+
+h1{
+
+    font-size: 1.7em;
+    line-height: 1.5em;
+    font-weight: 600;
+    padding-top: 1em;
+    font-family: 'Open Sans',sans-serif;
+
+}
+
+h2{
+
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 1.15em;
+    font-family: "Merriweather",serif;
+
+}
+
+p{
+
+    margin-bottom: 16px;
+    line-height: 30px;
+    margin: 0 0 11px;
+    font-size: 1.15em;
+    font-family: "Merriweather",serif;
+
+}
+
+a{
+
+    color: #668821;
+    text-decoration: none;
+    line-height: 30px;
+    font-family: "Merriweather",serif;
+
+}
+
+img{
+
+    width: 100%;
+    height: auto;
+    vertical-align: middle;border: 0;
+
+}
